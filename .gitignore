@@ -30,3 +30,19 @@
 *.exe
 *.out
 *.app
+
+# visual studio
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.suo
+*.opensdf
+
+# build directory
+.vs/
+x64/
+
+# Personal Files
+*.zip
+*.docx
