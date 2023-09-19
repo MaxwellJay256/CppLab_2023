@@ -39,6 +39,9 @@
 *.suo
 *.opensdf
 
+# visual studio code
+.vscode/
+
 # build directory
 .vs/
 x64/
